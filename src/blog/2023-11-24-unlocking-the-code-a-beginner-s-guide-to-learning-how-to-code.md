@@ -12,7 +12,7 @@ author: Anish Joshi
 date: '2023-11-24T18:48:51+05:45'
 tags:
   - post
-image: /assets/blog/andrew-neel-cckf4tshauw-unsplash-1-.jpg
+image: /assets/blog/chris-ried-ieic5tq8ymk-unsplash.jpg
 imageAlt: Learning to Code.
 ---
 1. **Introduction:**
