@@ -7,7 +7,6 @@ description: >-
 author: Anish Joshi
 date: '2023-11-25T06:48:19+05:45'
 tags:
-  - post
   - featured
 image: /assets/blog/coding.jpg
 imageAlt: 'Figure: Coding'
